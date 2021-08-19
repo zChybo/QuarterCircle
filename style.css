@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  textarea, div {
+    width: 40%;
+    min-height: 200px;
+    display: inline-block;
+  }
+  
+  div {
+    background-color: lightblue;
+  }
